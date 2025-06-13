@@ -87,3 +87,5 @@ const AITeamSection = () => {
     </div>
   );
 };
+
+export default AITeamSection;
